@@ -1,0 +1,7 @@
+budgetforbrug/__pycache__/
+budgetforbrug/ownfunc/__pycache__/
+budgetforbrug/dist/
+budgetforbrug/build/
+.venv/
+Data/
+Output/

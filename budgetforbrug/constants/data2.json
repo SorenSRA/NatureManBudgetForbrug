@@ -1,0 +1,81 @@
+{
+    "Omk2": {
+        "sheet_name": "Travel",
+        "belob": 12,
+        "bevid": 17,
+        "action": 16
+    },
+    "Omk3": {
+        "sheet_name": "External assistance",
+        "belob": 9,
+        "bevid": 15,
+        "action": 14
+    },
+   "Omk4a": {
+        "sheet_name": "Infrastructure",
+        "belob": 9,
+        "bevid": 15,
+        "action": 14
+    },
+   "Omk4b": {
+        "sheet_name": "Equipment",
+        "belob": 7,
+        "bevid": 17,
+        "action": 16
+    },
+   "Omk4c": {
+        "sheet_name": "Prototype",
+        "belob": 6,
+        "bevid": 13,
+        "action": 12
+    },
+   "Omk5a": {
+        "sheet_name": "Land_purchase",
+        "belob": 7,
+        "bevid": 19,
+        "action": 14
+    },
+   "Omk5b": {
+        "sheet_name": "Land_Lease_Compensation",
+        "belob": 14,
+        "bevid": 19,
+        "action": 18
+    },
+   "Omk6": {
+        "sheet_name": "Consumables",
+        "belob": 7,
+        "bevid": 13,
+        "action": 12
+    },
+   "Omk7": {
+        "sheet_name": "Other direct costs",
+        "belob": 7,
+        "bevid": 13,
+        "action": 12
+    },
+	"Omk1": {
+        "sheet_name": "HjaelpeArkTidsReg",
+        "belob": 7,
+        "bevid": 4,
+        "action": 3
+    },
+	"Budget": {
+        "sheet_name": "BevillingTildeling",
+        "belob": 7,
+        "bevid": 4,
+        "action": 3,
+		"column_list" : {
+			"Omk1": "1. Personnel",
+			"Omk2": "2. Travel and subsistence",
+			"Omk3": "3. External assistance",
+			"Omk4a": "4.a Infrastructure",
+			"Omk4b": "4.b Equipment",
+			"Omk4c": "4.c Prototype",
+			"Omk5a": "5. Purchase or lease of land",
+			"Omk6": "6. Consumables",
+			"Omk7": "7. Other costs"
+		}
+		
+	}
+		
+}
